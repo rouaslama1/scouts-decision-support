@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.png" width="140" alt="Scouts Grombalia logo">
+</p>
+
 # Scouts Grombalia Decision Support System
 
 ![Scouts Grombalia demo](docs/demo.gif)
@@ -37,6 +41,14 @@ flowchart LR
 ## Stack
 
 SQL · SSIS · Talend · SSAS · Power BI (DAX, Power Query) · Python · Scikit-learn · n8n · Flask
+
+## The team
+
+<p align="center">
+  <img src="docs/team.jpg" width="640" alt="The team behind the project">
+</p>
+
+<p align="center"><em>The team behind the project.</em></p>
 
 ## Contact
 
